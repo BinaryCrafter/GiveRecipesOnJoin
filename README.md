@@ -1,4 +1,4 @@
-# LoseXpOnDeath
+# GiveRecipesOnJoin
 A Minecraft 1.13 datapack that gives newly joined players all recipes
 
 # Installation
